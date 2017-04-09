@@ -1,6 +1,8 @@
 # CS313Team
 CS - 313 Team Project
 
+This is a project for CS 313 Web Engineering II. 
+
 ## Purpose
 This project is to demonstrate a team collaborative effort in developing a full stack application utilizing knowledge gained throughout the course.
 
