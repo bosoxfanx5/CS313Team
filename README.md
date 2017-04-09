@@ -1,7 +1,7 @@
 # CS313Team
 CS - 313 Team Project
 
-This is a project for CS 313 Web Engineering II. 
+This is a project for CS 313 Web Engineering II. We were to use an API and Java servlets to create a web application.
 
 ## Purpose
 This project is to demonstrate a team collaborative effort in developing a full stack application utilizing knowledge gained throughout the course.
